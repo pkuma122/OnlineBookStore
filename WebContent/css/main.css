@@ -1,0 +1,17 @@
+a:link{
+	 color:blue;
+	 font-weight: bold;
+	 text-decoration: none;
+	 font-size: 20px;
+	 text-decoration: none;
+}
+a:visited{
+	 color:blue;
+	 font-weight: bold;
+	 text-decoration: none;
+	 font-size: 16px;
+}
+a:HOVER {
+	color: maroon;
+	text-decoration: underline;
+}
